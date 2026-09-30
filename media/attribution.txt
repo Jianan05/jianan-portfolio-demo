@@ -1,0 +1,15 @@
+Public demo media attribution
+
+demo.mp4 and demo-poster.png are reused from the local Douyin Knowledge Ingest project, docs/assets/public-media-demo.*.
+This demo uses public fixtures and project-created narration / workflow recordings. It does not use private collections or login data.
+
+Underlying public-domain fixture:
+President Obama's Weekly Address — July 4, 2009, produced by the White House.
+https://commons.wikimedia.org/wiki/File:2009-07-04_President_Obama%27s_Weekly_Address.ogv
+
+Upstream transcription project: ZY-ZhichaoYu/douyin-transcribe (MIT).
+Derivative project: https://github.com/Jianan05/douyin-knowledge-mcp
+No upstream transcription code is copied into this website.
+
+Hero sculpture, ViDRAG diagram and phone concept illustration are created for this website in code. The latter two are illustrative graphics, not product screenshots.
+Reference screenshots in the parent visual-references directory are research material and are not bundled into this website.
